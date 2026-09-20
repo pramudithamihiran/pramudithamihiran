@@ -1,4 +1,4 @@
-# Hi there, I'm Pramuditha Mihiran👋
+# Hi there, I'm Pramuditha Mihiran 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pramudithamihiran&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -106,7 +106,7 @@
 
 <p align="center">
 
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/pramudhitha-mihiran-85ab783a7/)" target="_blank">
+<a href="https://www.linkedin.com/in/pramudhitha-mihiran-85ab783a7/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
